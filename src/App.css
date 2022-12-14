@@ -1,0 +1,21 @@
+.wrapper-div {
+  height: 500px;
+  padding: 10px;
+  border: 0.5px solid lightgray;
+}
+
+.select-wrap {
+  width: 200px;
+  padding: 10px;
+  border: 1px solid grey;
+}
+
+.wrapper-table-div {
+  padding: 10px;
+  border: 0.5px solid lightgray;
+}
+
+.wrap-all {
+  display: grid;
+  grid-template-columns: 25% auto;
+}
